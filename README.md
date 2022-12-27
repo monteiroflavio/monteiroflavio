@@ -51,5 +51,13 @@
   </a>
 </p>
 
-![monteiroflavio's GitHub stats](https://github-readme-stats.vercel.app/api?username=monteiroflavio&show_icons=true&theme=dracula&hide_border=true)
-![monteiroflavio's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=monteiroflavio&theme=dracula&hide_border=true)
+<p align="center">
+  <a href="https://github.com/monteiroflavio/" target="blank">
+    <img align="center"
+         src="https://github-readme-stats.vercel.app/api?username=monteiroflavio&show_icons=true&theme=dracula&hide_border=true"
+         alt="azzar"/>
+    <img align="center"
+         src="https://github-readme-streak-stats.herokuapp.com/?user=monteiroflavio&theme=dracula&hide_border=true"
+         alt="azzar"/>
+  </a>
+</p>
